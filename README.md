@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Github React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![CircleCI](https://circleci.com/gh/commercetools/sunrise-spa.svg?style=svg)](https://circleci.com/gh/commercetools/sunrise-spa)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40ae8067-e59d-4c71-a232-8f0b222bc291/deploy-status)](https://app.netlify.com/sites/sunrise/deploys)
 
 ## Available Scripts
 
